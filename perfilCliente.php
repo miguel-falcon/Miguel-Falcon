@@ -11,6 +11,9 @@ Todos los derechos reservados
 <head>
 <title>Inicio</title>                               <!-- Titulo de la pagina -->
 <?php
+
+
+ //Comentario de prueba 2
     error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
     session_start();
     include './inc/link.php';          //Enlace de estilos y librerias incluidas
