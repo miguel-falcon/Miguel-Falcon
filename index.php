@@ -193,7 +193,8 @@ frameborder="10" style="border:0" >
 </section>
 
 <?php
-//Redes sociales de la Farmacia
+//Comentario de prueba 
+
 include './inc/footer.php'; ?>
 </body>
 </html>
