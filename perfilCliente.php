@@ -27,7 +27,7 @@ Todos los derechos reservados
 <div class="container">
 <div class="row">
 <div class="page-header ">
-
+<div> TEST change 2</div>
     <h1> Mi perfil  <small class="tittles-pages-logo">Bienvenido.</small></h1>
 </div>
 <?php
@@ -35,7 +35,7 @@ Todos los derechos reservados
     $cliente=  ejecutarSQL::consultar(
     "select * from cliente where NIT='".$_SESSION['nombreUser']."'");
 
-//Ciclo pra obtener los datos del cliente y tabla contenedora de la información
+//Ciclo pra obtener los datos del cliente y tabla contenedora de la informacióngit 
     while($cli=mysql_fetch_array($cliente)){
     echo "
     <center>
