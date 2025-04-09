@@ -19,7 +19,7 @@ session_start();
 <html lang="es">
 <head>
 
-<title>Mis Pedidos</title>                          <!-- Titulo de la pagina -->
+<title>Mis Pedidos test</title>                          <!-- Titulo de la pagina -->
 
 </head>
 <body id="container-page-product">                  <!-- Cuerpo de la pagina -->
