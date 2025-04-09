@@ -27,7 +27,7 @@ Todos los derechos reservados
 <div class="container">
 <div class="row">
 <div class="page-header ">
-<div> TEST update</div>
+<div> TEST update 1</div>
     <h1> Mi perfil  <small class="tittles-pages-logo">Bienvenido.</small></h1>
 </div>
 <?php
